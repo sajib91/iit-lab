@@ -1,0 +1,1 @@
+char arr[length +1];
